@@ -1,0 +1,1 @@
+D:\C# 程序设计\实验题\面向对象\var_Test\var_Test\obj\Debug\ResolveAssemblyReference.cache

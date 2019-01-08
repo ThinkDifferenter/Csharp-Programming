@@ -1,0 +1,8 @@
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\bin\Debug\MDI窗体.exe
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\bin\Debug\MDI窗体.pdb
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\obj\Debug\MDI窗体.Form1.resources
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\obj\Debug\MDI窗体.Properties.Resources.resources
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\obj\Debug\MDI窗体.csproj.GenerateResource.Cache
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\obj\Debug\MDI窗体.exe
+D:\C# 程序设计\教材实例\MDI窗体\MDI窗体\obj\Debug\MDI窗体.pdb

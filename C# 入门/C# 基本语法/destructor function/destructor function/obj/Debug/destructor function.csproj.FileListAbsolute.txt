@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\destructor function\destructor function\bin\Debug\destructor function.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\destructor function\destructor function\bin\Debug\destructor function.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\destructor function\destructor function\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\destructor function\destructor function\obj\Debug\destructor function.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\destructor function\destructor function\obj\Debug\destructor function.pdb

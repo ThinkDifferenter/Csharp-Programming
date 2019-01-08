@@ -1,0 +1,5 @@
+D:\C# 程序设计\实验题\面向对象\HashSet_Test1\HashSet_Test1\bin\Debug\HashSet_Test1.exe
+D:\C# 程序设计\实验题\面向对象\HashSet_Test1\HashSet_Test1\bin\Debug\HashSet_Test1.pdb
+D:\C# 程序设计\实验题\面向对象\HashSet_Test1\HashSet_Test1\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\面向对象\HashSet_Test1\HashSet_Test1\obj\Debug\HashSet_Test1.exe
+D:\C# 程序设计\实验题\面向对象\HashSet_Test1\HashSet_Test1\obj\Debug\HashSet_Test1.pdb

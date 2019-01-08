@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\mutiply array\mutiply array\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\mutiply array\mutiply array\bin\Debug\mutiply array.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\mutiply array\mutiply array\bin\Debug\mutiply array.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\mutiply array\mutiply array\obj\Debug\mutiply array.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\mutiply array\mutiply array\obj\Debug\mutiply array.pdb

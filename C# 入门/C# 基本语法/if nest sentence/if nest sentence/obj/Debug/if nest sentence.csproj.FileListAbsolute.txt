@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\if nest sentence\if nest sentence\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\if nest sentence\if nest sentence\bin\Debug\if nest sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\if nest sentence\if nest sentence\bin\Debug\if nest sentence.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\if nest sentence\if nest sentence\obj\Debug\if nest sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\if nest sentence\if nest sentence\obj\Debug\if nest sentence.pdb

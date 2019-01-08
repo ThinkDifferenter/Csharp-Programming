@@ -1,0 +1,5 @@
+c:\users\lj\documents\visual studio 2015\Projects\数据类型5\数据类型5\bin\Debug\数据类型5.exe.config
+c:\users\lj\documents\visual studio 2015\Projects\数据类型5\数据类型5\bin\Debug\数据类型5.exe
+c:\users\lj\documents\visual studio 2015\Projects\数据类型5\数据类型5\bin\Debug\数据类型5.pdb
+c:\users\lj\documents\visual studio 2015\Projects\数据类型5\数据类型5\obj\Debug\数据类型5.exe
+c:\users\lj\documents\visual studio 2015\Projects\数据类型5\数据类型5\obj\Debug\数据类型5.pdb

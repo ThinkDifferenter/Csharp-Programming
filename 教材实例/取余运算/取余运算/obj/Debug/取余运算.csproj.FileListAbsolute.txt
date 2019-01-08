@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\取余运算\取余运算\bin\Debug\取余运算.exe
+D:\C# 程序设计\教材实例\取余运算\取余运算\bin\Debug\取余运算.pdb
+D:\C# 程序设计\教材实例\取余运算\取余运算\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\取余运算\取余运算\obj\Debug\取余运算.exe
+D:\C# 程序设计\教材实例\取余运算\取余运算\obj\Debug\取余运算.pdb

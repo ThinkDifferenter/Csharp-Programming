@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Value\Value\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Value\Value\bin\Debug\Value.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Value\Value\bin\Debug\Value.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Value\Value\obj\Debug\Value.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Value\Value\obj\Debug\Value.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验3\实验3\bin\Debug\实验3.exe
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验3\实验3\bin\Debug\实验3.pdb
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验3\实验3\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验3\实验3\obj\Debug\实验3.exe
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验3\实验3\obj\Debug\实验3.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\pi console\pi console\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\pi console\pi console\bin\Debug\pi console.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\pi console\pi console\bin\Debug\pi console.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\pi console\pi console\obj\Debug\pi console.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\pi console\pi console\obj\Debug\pi console.pdb

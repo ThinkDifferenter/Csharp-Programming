@@ -1,0 +1,1 @@
+D:\C# 程序设计\C# 题库\实验题\字符串与类型转换\实验3\实验3\obj\Debug\ResolveAssemblyReference.cache

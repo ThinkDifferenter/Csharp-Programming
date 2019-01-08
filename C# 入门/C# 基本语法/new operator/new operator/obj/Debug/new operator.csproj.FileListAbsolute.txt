@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\new operator\new operator\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\new operator\new operator\bin\Debug\new operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\new operator\new operator\bin\Debug\new operator.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\new operator\new operator\obj\Debug\new operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\new operator\new operator\obj\Debug\new operator.pdb

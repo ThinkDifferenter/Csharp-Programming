@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二维数组的使用", "二维数组的使用\二维数组的使用.csproj", "{72A9ADA9-C58C-4E1C-BB79-B1D222085C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A9ADA9-C58C-4E1C-BB79-B1D222085C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A9ADA9-C58C-4E1C-BB79-B1D222085C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A9ADA9-C58C-4E1C-BB79-B1D222085C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A9ADA9-C58C-4E1C-BB79-B1D222085C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

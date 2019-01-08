@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\arrange of operator\arrange of operator\bin\Debug\arrange of operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\arrange of operator\arrange of operator\bin\Debug\arrange of operator.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\arrange of operator\arrange of operator\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\arrange of operator\arrange of operator\obj\Debug\arrange of operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\arrange of operator\arrange of operator\obj\Debug\arrange of operator.pdb

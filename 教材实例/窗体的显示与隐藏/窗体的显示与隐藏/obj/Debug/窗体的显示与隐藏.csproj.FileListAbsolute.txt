@@ -1,0 +1,8 @@
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\obj\Debug\窗体的显示与隐藏.Form1.resources
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\obj\Debug\窗体的显示与隐藏.Properties.Resources.resources
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\obj\Debug\窗体的显示与隐藏.csproj.GenerateResource.Cache
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\bin\Debug\窗体的显示与隐藏.exe
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\bin\Debug\窗体的显示与隐藏.pdb
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\obj\Debug\窗体的显示与隐藏.exe
+D:\C# 程序设计\教材实例\窗体的显示与隐藏\窗体的显示与隐藏\obj\Debug\窗体的显示与隐藏.pdb

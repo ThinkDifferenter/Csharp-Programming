@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Compare\Compare\bin\Debug\Compare.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Compare\Compare\bin\Debug\Compare.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Compare\Compare\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Compare\Compare\obj\Debug\Compare.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Compare\Compare\obj\Debug\Compare.pdb

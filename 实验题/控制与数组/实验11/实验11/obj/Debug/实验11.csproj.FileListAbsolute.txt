@@ -1,0 +1,10 @@
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验11\实验11\bin\Debug\实验11.exe
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验11\实验11\bin\Debug\实验11.pdb
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验11\实验11\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验11\实验11\obj\Debug\实验11.exe
+D:\C# 程序设计\C# 题库\实验题\控制与数组\实验11\实验11\obj\Debug\实验11.pdb
+D:\C# 程序设计\实验题\控制与数组\实验11\实验11\obj\Debug\实验11.exe
+D:\C# 程序设计\实验题\控制与数组\实验11\实验11\obj\Debug\实验11.pdb
+D:\C# 程序设计\实验题\控制与数组\实验11\实验11\bin\Debug\实验11.exe
+D:\C# 程序设计\实验题\控制与数组\实验11\实验11\bin\Debug\实验11.pdb
+D:\C# 程序设计\实验题\控制与数组\实验11\实验11\obj\Debug\ResolveAssemblyReference.cache

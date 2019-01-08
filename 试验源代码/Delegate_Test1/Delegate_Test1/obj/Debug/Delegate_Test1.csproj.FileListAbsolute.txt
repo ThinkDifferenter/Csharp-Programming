@@ -1,0 +1,10 @@
+D:\C# 程序设计\实验题\面向对象\Delegate_Test1\Delegate_Test1\bin\Debug\Delegate_Test1.exe
+D:\C# 程序设计\实验题\面向对象\Delegate_Test1\Delegate_Test1\bin\Debug\Delegate_Test1.pdb
+D:\C# 程序设计\实验题\面向对象\Delegate_Test1\Delegate_Test1\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\面向对象\Delegate_Test1\Delegate_Test1\obj\Debug\Delegate_Test1.exe
+D:\C# 程序设计\实验题\面向对象\Delegate_Test1\Delegate_Test1\obj\Debug\Delegate_Test1.pdb
+D:\C# 程序设计\试验源代码\Delegate_Test1\Delegate_Test1\obj\Debug\Delegate_Test1.exe
+D:\C# 程序设计\试验源代码\Delegate_Test1\Delegate_Test1\obj\Debug\Delegate_Test1.pdb
+D:\C# 程序设计\试验源代码\Delegate_Test1\Delegate_Test1\bin\Debug\Delegate_Test1.exe
+D:\C# 程序设计\试验源代码\Delegate_Test1\Delegate_Test1\bin\Debug\Delegate_Test1.pdb
+D:\C# 程序设计\试验源代码\Delegate_Test1\Delegate_Test1\obj\Debug\ResolveAssemblyReference.cache

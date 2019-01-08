@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Skip sentence\Skip sentence\bin\Debug\Skip sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Skip sentence\Skip sentence\bin\Debug\Skip sentence.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Skip sentence\Skip sentence\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Skip sentence\Skip sentence\obj\Debug\Skip sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Skip sentence\Skip sentence\obj\Debug\Skip sentence.pdb

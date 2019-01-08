@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\The first program\The first program\bin\Debug\The first program.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\The first program\The first program\bin\Debug\The first program.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\The first program\The first program\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\The first program\The first program\obj\Debug\The first program.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\The first program\The first program\obj\Debug\The first program.pdb

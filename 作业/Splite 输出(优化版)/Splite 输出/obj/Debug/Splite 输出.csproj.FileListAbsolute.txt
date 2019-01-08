@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\Splite 输出\Splite 输出\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\Splite 输出\Splite 输出\bin\Debug\Splite 输出.exe
+D:\C# 程序设计\教材实例\Splite 输出\Splite 输出\bin\Debug\Splite 输出.pdb
+D:\C# 程序设计\教材实例\Splite 输出\Splite 输出\obj\Debug\Splite 输出.exe
+D:\C# 程序设计\教材实例\Splite 输出\Splite 输出\obj\Debug\Splite 输出.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\二维数组的使用\二维数组的使用\bin\Debug\二维数组的使用.exe
+D:\C# 程序设计\教材实例\二维数组的使用\二维数组的使用\bin\Debug\二维数组的使用.pdb
+D:\C# 程序设计\教材实例\二维数组的使用\二维数组的使用\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\二维数组的使用\二维数组的使用\obj\Debug\二维数组的使用.exe
+D:\C# 程序设计\教材实例\二维数组的使用\二维数组的使用\obj\Debug\二维数组的使用.pdb

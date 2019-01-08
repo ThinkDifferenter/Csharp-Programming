@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\exchange function\exchange function\bin\Debug\exchange function.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\exchange function\exchange function\bin\Debug\exchange function.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\exchange function\exchange function\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\exchange function\exchange function\obj\Debug\exchange function.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\exchange function\exchange function\obj\Debug\exchange function.pdb

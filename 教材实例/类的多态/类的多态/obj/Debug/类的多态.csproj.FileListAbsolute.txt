@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\类的多态\类的多态\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\类的多态\类的多态\bin\Debug\类的多态.exe
+D:\C# 程序设计\教材实例\类的多态\类的多态\bin\Debug\类的多态.pdb
+D:\C# 程序设计\教材实例\类的多态\类的多态\obj\Debug\类的多态.exe
+D:\C# 程序设计\教材实例\类的多态\类的多态\obj\Debug\类的多态.pdb

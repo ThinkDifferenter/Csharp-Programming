@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\格式化字符串\格式化字符串\bin\Debug\格式化字符串.exe
+D:\C# 程序设计\教材实例\格式化字符串\格式化字符串\bin\Debug\格式化字符串.pdb
+D:\C# 程序设计\教材实例\格式化字符串\格式化字符串\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\格式化字符串\格式化字符串\obj\Debug\格式化字符串.exe
+D:\C# 程序设计\教材实例\格式化字符串\格式化字符串\obj\Debug\格式化字符串.pdb

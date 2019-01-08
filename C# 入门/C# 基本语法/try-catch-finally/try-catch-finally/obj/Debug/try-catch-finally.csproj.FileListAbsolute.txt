@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\try-catch-finally\try-catch-finally\bin\Debug\try-catch-finally.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\try-catch-finally\try-catch-finally\bin\Debug\try-catch-finally.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\try-catch-finally\try-catch-finally\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\try-catch-finally\try-catch-finally\obj\Debug\try-catch-finally.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\try-catch-finally\try-catch-finally\obj\Debug\try-catch-finally.pdb

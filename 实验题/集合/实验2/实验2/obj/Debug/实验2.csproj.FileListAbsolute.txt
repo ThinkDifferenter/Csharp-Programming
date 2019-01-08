@@ -1,0 +1,5 @@
+D:\C# 程序设计\实验题\集合\实验2\实验2\bin\Debug\实验2.exe
+D:\C# 程序设计\实验题\集合\实验2\实验2\bin\Debug\实验2.pdb
+D:\C# 程序设计\实验题\集合\实验2\实验2\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\集合\实验2\实验2\obj\Debug\实验2.exe
+D:\C# 程序设计\实验题\集合\实验2\实验2\obj\Debug\实验2.pdb

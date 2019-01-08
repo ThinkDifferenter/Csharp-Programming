@@ -1,0 +1,5 @@
+c:\users\lj\documents\visual studio 2015\Projects\数据类型6\数据类型6\bin\Debug\数据类型6.exe.config
+c:\users\lj\documents\visual studio 2015\Projects\数据类型6\数据类型6\bin\Debug\数据类型6.exe
+c:\users\lj\documents\visual studio 2015\Projects\数据类型6\数据类型6\bin\Debug\数据类型6.pdb
+c:\users\lj\documents\visual studio 2015\Projects\数据类型6\数据类型6\obj\Debug\数据类型6.exe
+c:\users\lj\documents\visual studio 2015\Projects\数据类型6\数据类型6\obj\Debug\数据类型6.pdb

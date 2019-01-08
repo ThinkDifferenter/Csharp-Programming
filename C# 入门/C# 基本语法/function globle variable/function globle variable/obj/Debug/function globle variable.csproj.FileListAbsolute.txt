@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\function globle variable\function globle variable\bin\Debug\function globle variable.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function globle variable\function globle variable\bin\Debug\function globle variable.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\function globle variable\function globle variable\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\function globle variable\function globle variable\obj\Debug\function globle variable.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function globle variable\function globle variable\obj\Debug\function globle variable.pdb

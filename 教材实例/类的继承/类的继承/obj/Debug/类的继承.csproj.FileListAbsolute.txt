@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\类的继承\类的继承\bin\Debug\类的继承.exe
+D:\C# 程序设计\教材实例\类的继承\类的继承\bin\Debug\类的继承.pdb
+D:\C# 程序设计\教材实例\类的继承\类的继承\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\类的继承\类的继承\obj\Debug\类的继承.exe
+D:\C# 程序设计\教材实例\类的继承\类的继承\obj\Debug\类的继承.pdb

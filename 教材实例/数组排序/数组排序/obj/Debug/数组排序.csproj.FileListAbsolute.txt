@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\数组排序\数组排序\bin\Debug\数组排序.exe
+D:\C# 程序设计\教材实例\数组排序\数组排序\bin\Debug\数组排序.pdb
+D:\C# 程序设计\教材实例\数组排序\数组排序\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\数组排序\数组排序\obj\Debug\数组排序.exe
+D:\C# 程序设计\教材实例\数组排序\数组排序\obj\Debug\数组排序.pdb

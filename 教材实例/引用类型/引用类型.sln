@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "引用类型", "引用类型\引用类型.csproj", "{76432A37-40C0-4F6E-8055-DD25BDF52A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76432A37-40C0-4F6E-8055-DD25BDF52A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76432A37-40C0-4F6E-8055-DD25BDF52A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76432A37-40C0-4F6E-8055-DD25BDF52A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76432A37-40C0-4F6E-8055-DD25BDF52A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

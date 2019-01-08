@@ -1,0 +1,5 @@
+D:\C# 程序设计\实验题\控制与数组\实验13\实验13\bin\Debug\实验13.exe
+D:\C# 程序设计\实验题\控制与数组\实验13\实验13\bin\Debug\实验13.pdb
+D:\C# 程序设计\实验题\控制与数组\实验13\实验13\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\控制与数组\实验13\实验13\obj\Debug\实验13.exe
+D:\C# 程序设计\实验题\控制与数组\实验13\实验13\obj\Debug\实验13.pdb

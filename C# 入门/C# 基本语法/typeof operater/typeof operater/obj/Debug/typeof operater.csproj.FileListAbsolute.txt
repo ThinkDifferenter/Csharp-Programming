@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\typeof operater\typeof operater\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\typeof operater\typeof operater\bin\Debug\typeof operater.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\typeof operater\typeof operater\bin\Debug\typeof operater.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\typeof operater\typeof operater\obj\Debug\typeof operater.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\typeof operater\typeof operater\obj\Debug\typeof operater.pdb

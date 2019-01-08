@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\for circle sentence\for circle sentence\bin\Debug\for circle sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\for circle sentence\for circle sentence\bin\Debug\for circle sentence.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\for circle sentence\for circle sentence\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\for circle sentence\for circle sentence\obj\Debug\for circle sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\for circle sentence\for circle sentence\obj\Debug\for circle sentence.pdb

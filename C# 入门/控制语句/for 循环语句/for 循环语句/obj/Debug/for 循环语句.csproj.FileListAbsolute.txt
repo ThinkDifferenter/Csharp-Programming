@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\for 循环语句\for 循环语句\bin\Debug\for 循环语句.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\for 循环语句\for 循环语句\bin\Debug\for 循环语句.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\for 循环语句\for 循环语句\bin\Debug\for 循环语句.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\for 循环语句\for 循环语句\obj\Debug\for 循环语句.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\for 循环语句\for 循环语句\obj\Debug\for 循环语句.pdb

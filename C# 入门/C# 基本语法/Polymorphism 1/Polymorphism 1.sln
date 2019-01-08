@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism 1", "Polymorphism 1\Polymorphism 1.csproj", "{5ED7B4A2-A2DF-4628-A28F-D8294C57F090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED7B4A2-A2DF-4628-A28F-D8294C57F090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED7B4A2-A2DF-4628-A28F-D8294C57F090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED7B4A2-A2DF-4628-A28F-D8294C57F090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED7B4A2-A2DF-4628-A28F-D8294C57F090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

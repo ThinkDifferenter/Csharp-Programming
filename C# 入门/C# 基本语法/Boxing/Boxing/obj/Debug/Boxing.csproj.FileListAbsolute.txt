@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Boxing\Boxing\bin\Debug\Boxing.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Boxing\Boxing\bin\Debug\Boxing.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Boxing\Boxing\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Boxing\Boxing\obj\Debug\Boxing.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Boxing\Boxing\obj\Debug\Boxing.pdb

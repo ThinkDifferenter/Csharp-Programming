@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\FirstCP\FirstCP\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\FirstCP\FirstCP\bin\Debug\FirstCP.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\FirstCP\FirstCP\bin\Debug\FirstCP.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\FirstCP\FirstCP\obj\Debug\FirstCP.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\FirstCP\FirstCP\obj\Debug\FirstCP.pdb

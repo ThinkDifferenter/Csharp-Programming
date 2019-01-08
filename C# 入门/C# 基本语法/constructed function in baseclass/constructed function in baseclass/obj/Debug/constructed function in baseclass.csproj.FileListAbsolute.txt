@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\constructed function in baseclass\constructed function in baseclass\bin\Debug\constructed function in baseclass.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\constructed function in baseclass\constructed function in baseclass\bin\Debug\constructed function in baseclass.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\constructed function in baseclass\constructed function in baseclass\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\constructed function in baseclass\constructed function in baseclass\obj\Debug\constructed function in baseclass.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\constructed function in baseclass\constructed function in baseclass\obj\Debug\constructed function in baseclass.pdb

@@ -1,0 +1,10 @@
+D:\C# 程序设计\教材实例\实验9\实验9\bin\Debug\实验9.exe
+D:\C# 程序设计\教材实例\实验9\实验9\bin\Debug\实验9.pdb
+D:\C# 程序设计\教材实例\实验9\实验9\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\实验9\实验9\obj\Debug\实验9.exe
+D:\C# 程序设计\教材实例\实验9\实验9\obj\Debug\实验9.pdb
+D:\C# 程序设计\C# 题库\实验题\字符串与类型转换\实验9\实验9\obj\Debug\实验9.exe
+D:\C# 程序设计\C# 题库\实验题\字符串与类型转换\实验9\实验9\obj\Debug\实验9.pdb
+D:\C# 程序设计\C# 题库\实验题\字符串与类型转换\实验9\实验9\bin\Debug\实验9.exe
+D:\C# 程序设计\C# 题库\实验题\字符串与类型转换\实验9\实验9\bin\Debug\实验9.pdb
+D:\C# 程序设计\C# 题库\实验题\字符串与类型转换\实验9\实验9\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组的合并", "数组的合并\数组的合并.csproj", "{CEAE4E5D-EF62-4F22-A5FD-304F5ABEDF86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAE4E5D-EF62-4F22-A5FD-304F5ABEDF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAE4E5D-EF62-4F22-A5FD-304F5ABEDF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAE4E5D-EF62-4F22-A5FD-304F5ABEDF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAE4E5D-EF62-4F22-A5FD-304F5ABEDF86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

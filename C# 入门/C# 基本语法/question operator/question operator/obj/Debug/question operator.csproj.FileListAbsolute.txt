@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\question operator\question operator\bin\Debug\question operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\question operator\question operator\bin\Debug\question operator.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\question operator\question operator\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\question operator\question operator\obj\Debug\question operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\question operator\question operator\obj\Debug\question operator.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier internal\modifier internal\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier internal\modifier internal\bin\Debug\modifier internal.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier internal\modifier internal\bin\Debug\modifier internal.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier internal\modifier internal\obj\Debug\modifier internal.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier internal\modifier internal\obj\Debug\modifier internal.pdb

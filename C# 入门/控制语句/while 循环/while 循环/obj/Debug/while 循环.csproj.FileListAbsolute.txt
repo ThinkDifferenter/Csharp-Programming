@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\while 循环\while 循环\bin\Debug\while 循环.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\while 循环\while 循环\bin\Debug\while 循环.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\while 循环\while 循环\bin\Debug\while 循环.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\while 循环\while 循环\obj\Debug\while 循环.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\while 循环\while 循环\obj\Debug\while 循环.pdb

@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-private\继承及多态性-private\bin\Debug\继承及多态性-private.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-private\继承及多态性-private\bin\Debug\继承及多态性-private.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-private\继承及多态性-private\bin\Debug\继承及多态性-private.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-private\继承及多态性-private\obj\Debug\继承及多态性-private.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-private\继承及多态性-private\obj\Debug\继承及多态性-private.pdb

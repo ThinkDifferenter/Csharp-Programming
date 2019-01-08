@@ -1,0 +1,8 @@
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\bin\Debug\窗体的事件.exe
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\bin\Debug\窗体的事件.pdb
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\obj\Debug\窗体的事件.Form1.resources
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\obj\Debug\窗体的事件.Properties.Resources.resources
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\obj\Debug\窗体的事件.csproj.GenerateResource.Cache
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\obj\Debug\窗体的事件.exe
+D:\C# 程序设计\教材实例\窗体的事件\窗体的事件\obj\Debug\窗体的事件.pdb

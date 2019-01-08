@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier private\modifier private\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier private\modifier private\bin\Debug\modifier private.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier private\modifier private\bin\Debug\modifier private.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier private\modifier private\obj\Debug\modifier private.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier private\modifier private\obj\Debug\modifier private.pdb

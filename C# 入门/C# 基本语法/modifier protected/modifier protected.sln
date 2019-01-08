@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modifier protected", "modifier protected\modifier protected.csproj", "{A741A029-3DB0-4B2A-B4FF-1E7F090C34EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A741A029-3DB0-4B2A-B4FF-1E7F090C34EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A741A029-3DB0-4B2A-B4FF-1E7F090C34EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A741A029-3DB0-4B2A-B4FF-1E7F090C34EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A741A029-3DB0-4B2A-B4FF-1E7F090C34EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

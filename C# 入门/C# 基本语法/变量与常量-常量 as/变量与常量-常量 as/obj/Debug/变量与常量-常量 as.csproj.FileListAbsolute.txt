@@ -1,0 +1,5 @@
+c:\users\lj\documents\visual studio 2015\Projects\变量与常量-常量 as\变量与常量-常量 as\bin\Debug\变量与常量-常量 as.exe.config
+c:\users\lj\documents\visual studio 2015\Projects\变量与常量-常量 as\变量与常量-常量 as\bin\Debug\变量与常量-常量 as.exe
+c:\users\lj\documents\visual studio 2015\Projects\变量与常量-常量 as\变量与常量-常量 as\bin\Debug\变量与常量-常量 as.pdb
+c:\users\lj\documents\visual studio 2015\Projects\变量与常量-常量 as\变量与常量-常量 as\obj\Debug\变量与常量-常量 as.exe
+c:\users\lj\documents\visual studio 2015\Projects\变量与常量-常量 as\变量与常量-常量 as\obj\Debug\变量与常量-常量 as.pdb

@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\第三章 实验1\第三章 实验1\bin\Debug\第三章 实验1.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\第三章 实验1\第三章 实验1\bin\Debug\第三章 实验1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\第三章 实验1\第三章 实验1\bin\Debug\第三章 实验1.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\第三章 实验1\第三章 实验1\obj\Debug\第三章 实验1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\第三章 实验1\第三章 实验1\obj\Debug\第三章 实验1.pdb

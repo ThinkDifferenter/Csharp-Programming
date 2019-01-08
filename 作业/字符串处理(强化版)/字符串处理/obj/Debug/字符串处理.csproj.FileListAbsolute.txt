@@ -1,0 +1,15 @@
+D:\C# 程序设计\教材实例\字符串处理\字符串处理\bin\Debug\字符串处理.exe
+D:\C# 程序设计\教材实例\字符串处理\字符串处理\bin\Debug\字符串处理.pdb
+D:\C# 程序设计\教材实例\字符串处理\字符串处理\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\字符串处理\字符串处理\obj\Debug\字符串处理.exe
+D:\C# 程序设计\教材实例\字符串处理\字符串处理\obj\Debug\字符串处理.pdb
+D:\C# 程序设计\作业\字符串处理\字符串处理\obj\Debug\字符串处理.exe
+D:\C# 程序设计\作业\字符串处理\字符串处理\obj\Debug\字符串处理.pdb
+D:\C# 程序设计\作业\字符串处理\字符串处理\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\作业\字符串处理\字符串处理\bin\Debug\字符串处理.exe
+D:\C# 程序设计\作业\字符串处理\字符串处理\bin\Debug\字符串处理.pdb
+D:\C# 程序设计\作业\字符串处理(强化版)\字符串处理\obj\Debug\字符串处理.exe
+D:\C# 程序设计\作业\字符串处理(强化版)\字符串处理\obj\Debug\字符串处理.pdb
+D:\C# 程序设计\作业\字符串处理(强化版)\字符串处理\bin\Debug\字符串处理.exe
+D:\C# 程序设计\作业\字符串处理(强化版)\字符串处理\bin\Debug\字符串处理.pdb
+D:\C# 程序设计\作业\字符串处理(强化版)\字符串处理\obj\Debug\ResolveAssemblyReference.cache

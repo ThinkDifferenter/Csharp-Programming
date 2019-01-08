@@ -1,0 +1,7 @@
+D:\C# 程序设计\实验题\面向对象\Indexer_Test1\Indexer_Test1\bin\Debug\Indexer_Test1.exe
+D:\C# 程序设计\实验题\面向对象\Indexer_Test1\Indexer_Test1\bin\Debug\Indexer_Test1.pdb
+D:\C# 程序设计\实验题\面向对象\Indexer_Test1\Indexer_Test1\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\面向对象\Indexer_Test1\Indexer_Test1\obj\Debug\Indexer_Test1.exe
+D:\C# 程序设计\实验题\面向对象\Indexer_Test1\Indexer_Test1\obj\Debug\Indexer_Test1.pdb
+D:\C# 程序设计\实验源代码\Indexer_Test1\Indexer_Test1\obj\Debug\Indexer_Test1.exe
+D:\C# 程序设计\实验源代码\Indexer_Test1\Indexer_Test1\obj\Debug\Indexer_Test1.pdb

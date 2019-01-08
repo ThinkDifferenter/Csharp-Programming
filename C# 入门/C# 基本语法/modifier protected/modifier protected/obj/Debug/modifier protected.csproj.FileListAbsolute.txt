@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier protected\modifier protected\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier protected\modifier protected\bin\Debug\modifier protected.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier protected\modifier protected\bin\Debug\modifier protected.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier protected\modifier protected\obj\Debug\modifier protected.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier protected\modifier protected\obj\Debug\modifier protected.pdb

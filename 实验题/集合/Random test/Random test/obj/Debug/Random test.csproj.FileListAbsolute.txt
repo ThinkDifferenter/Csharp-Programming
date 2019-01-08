@@ -1,0 +1,5 @@
+D:\C# 程序设计\实验题\集合\Random test\Random test\bin\Debug\Random test.exe
+D:\C# 程序设计\实验题\集合\Random test\Random test\bin\Debug\Random test.pdb
+D:\C# 程序设计\实验题\集合\Random test\Random test\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\集合\Random test\Random test\obj\Debug\Random test.exe
+D:\C# 程序设计\实验题\集合\Random test\Random test\obj\Debug\Random test.pdb

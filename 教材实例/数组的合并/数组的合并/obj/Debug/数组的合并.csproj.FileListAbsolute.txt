@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\数组的合并\数组的合并\bin\Debug\数组的合并.exe
+D:\C# 程序设计\教材实例\数组的合并\数组的合并\bin\Debug\数组的合并.pdb
+D:\C# 程序设计\教材实例\数组的合并\数组的合并\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\数组的合并\数组的合并\obj\Debug\数组的合并.exe
+D:\C# 程序设计\教材实例\数组的合并\数组的合并\obj\Debug\数组的合并.pdb

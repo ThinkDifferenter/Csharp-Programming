@@ -1,0 +1,7 @@
+D:\C# 程序设计\实验源代码\Genericity\Genericity\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验源代码\Genericity\Genericity\bin\Debug\Genericity.exe
+D:\C# 程序设计\实验源代码\Genericity\Genericity\bin\Debug\Genericity.pdb
+D:\C# 程序设计\实验源代码\Genericity\Genericity\obj\Debug\Genericity.exe
+D:\C# 程序设计\实验源代码\Genericity\Genericity\obj\Debug\Genericity.pdb
+D:\C# 程序设计\试验源代码\Genericity\Genericity\obj\Debug\Genericity.exe
+D:\C# 程序设计\试验源代码\Genericity\Genericity\obj\Debug\Genericity.pdb

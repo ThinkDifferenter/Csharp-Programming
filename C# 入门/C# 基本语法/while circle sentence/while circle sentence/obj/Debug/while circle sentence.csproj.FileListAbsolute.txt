@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\while circle sentence\while circle sentence\bin\Debug\while circle sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\while circle sentence\while circle sentence\bin\Debug\while circle sentence.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\while circle sentence\while circle sentence\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\while circle sentence\while circle sentence\obj\Debug\while circle sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\while circle sentence\while circle sentence\obj\Debug\while circle sentence.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\function gloable variable\function gloable variable\bin\Debug\function gloable variable.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function gloable variable\function gloable variable\bin\Debug\function gloable variable.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\function gloable variable\function gloable variable\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\function gloable variable\function gloable variable\obj\Debug\function gloable variable.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function gloable variable\function gloable variable\obj\Debug\function gloable variable.pdb

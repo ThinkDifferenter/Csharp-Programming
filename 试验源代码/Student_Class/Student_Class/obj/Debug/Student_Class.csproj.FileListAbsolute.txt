@@ -1,0 +1,5 @@
+D:\C# 程序设计\试验源代码\Student_Class\Student_Class\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\试验源代码\Student_Class\Student_Class\bin\Debug\Student_Class.exe
+D:\C# 程序设计\试验源代码\Student_Class\Student_Class\bin\Debug\Student_Class.pdb
+D:\C# 程序设计\试验源代码\Student_Class\Student_Class\obj\Debug\Student_Class.exe
+D:\C# 程序设计\试验源代码\Student_Class\Student_Class\obj\Debug\Student_Class.pdb

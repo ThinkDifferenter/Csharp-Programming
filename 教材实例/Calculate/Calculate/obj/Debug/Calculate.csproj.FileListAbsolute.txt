@@ -1,0 +1,8 @@
+D:\C# 程序设计\教材实例\Calculate\Calculate\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+D:\C# 程序设计\教材实例\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\C# 程序设计\教材实例\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+D:\C# 程序设计\教材实例\Calculate\Calculate\bin\Debug\Calculate.exe
+D:\C# 程序设计\教材实例\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\C# 程序设计\教材实例\Calculate\Calculate\obj\Debug\Calculate.exe
+D:\C# 程序设计\教材实例\Calculate\Calculate\obj\Debug\Calculate.pdb

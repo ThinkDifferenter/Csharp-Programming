@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\function_3\function_3\bin\Debug\function_3.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function_3\function_3\bin\Debug\function_3.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\function_3\function_3\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\function_3\function_3\obj\Debug\function_3.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function_3\function_3\obj\Debug\function_3.pdb

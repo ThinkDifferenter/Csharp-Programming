@@ -1,0 +1,7 @@
+D:\C# 程序设计\实验题\面向对象\Abstract_Class1\Abstract_Class1\bin\Debug\Abstract_Class1.exe
+D:\C# 程序设计\实验题\面向对象\Abstract_Class1\Abstract_Class1\bin\Debug\Abstract_Class1.pdb
+D:\C# 程序设计\实验题\面向对象\Abstract_Class1\Abstract_Class1\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\面向对象\Abstract_Class1\Abstract_Class1\obj\Debug\Abstract_Class1.exe
+D:\C# 程序设计\实验题\面向对象\Abstract_Class1\Abstract_Class1\obj\Debug\Abstract_Class1.pdb
+D:\C# 程序设计\实验源代码\Abstract_Class1\Abstract_Class1\obj\Debug\Abstract_Class1.exe
+D:\C# 程序设计\实验源代码\Abstract_Class1\Abstract_Class1\obj\Debug\Abstract_Class1.pdb

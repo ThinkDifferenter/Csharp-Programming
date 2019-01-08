@@ -1,0 +1,2 @@
+c:\users\lj\documents\visual studio 2015\Projects\定义类\定义类\bin\Debug\定义类.exe.config
+c:\users\lj\documents\visual studio 2015\Projects\定义类\定义类\obj\Debug\定义类.csprojResolveAssemblyReference.cache

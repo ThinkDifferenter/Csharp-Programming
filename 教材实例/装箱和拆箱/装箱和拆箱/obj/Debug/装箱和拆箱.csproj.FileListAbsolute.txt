@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\装箱和拆箱\装箱和拆箱\bin\Debug\装箱和拆箱.exe
+D:\C# 程序设计\教材实例\装箱和拆箱\装箱和拆箱\bin\Debug\装箱和拆箱.pdb
+D:\C# 程序设计\教材实例\装箱和拆箱\装箱和拆箱\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\装箱和拆箱\装箱和拆箱\obj\Debug\装箱和拆箱.exe
+D:\C# 程序设计\教材实例\装箱和拆箱\装箱和拆箱\obj\Debug\装箱和拆箱.pdb

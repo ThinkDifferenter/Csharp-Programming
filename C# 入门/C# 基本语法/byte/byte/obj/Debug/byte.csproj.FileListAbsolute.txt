@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\byte\byte\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\byte\byte\bin\Debug\byte.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\byte\byte\bin\Debug\byte.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\byte\byte\obj\Debug\byte.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\byte\byte\obj\Debug\byte.pdb

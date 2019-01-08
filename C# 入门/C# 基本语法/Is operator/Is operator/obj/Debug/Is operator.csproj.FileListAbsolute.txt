@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Is operator\Is operator\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Is operator\Is operator\bin\Debug\Is operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Is operator\Is operator\bin\Debug\Is operator.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Is operator\Is operator\obj\Debug\Is operator.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Is operator\Is operator\obj\Debug\Is operator.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\动态二维数组\动态二维数组\bin\Debug\动态二维数组.exe
+D:\C# 程序设计\教材实例\动态二维数组\动态二维数组\bin\Debug\动态二维数组.pdb
+D:\C# 程序设计\教材实例\动态二维数组\动态二维数组\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\动态二维数组\动态二维数组\obj\Debug\动态二维数组.exe
+D:\C# 程序设计\教材实例\动态二维数组\动态二维数组\obj\Debug\动态二维数组.pdb

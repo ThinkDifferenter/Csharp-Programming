@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\switch sentence\switch sentence\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\switch sentence\switch sentence\bin\Debug\switch sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\switch sentence\switch sentence\bin\Debug\switch sentence.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\switch sentence\switch sentence\obj\Debug\switch sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\switch sentence\switch sentence\obj\Debug\switch sentence.pdb

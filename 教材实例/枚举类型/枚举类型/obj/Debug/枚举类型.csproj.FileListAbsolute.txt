@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\枚举类型\枚举类型\bin\Debug\枚举类型.exe
+D:\C# 程序设计\教材实例\枚举类型\枚举类型\bin\Debug\枚举类型.pdb
+D:\C# 程序设计\教材实例\枚举类型\枚举类型\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\枚举类型\枚举类型\obj\Debug\枚举类型.exe
+D:\C# 程序设计\教材实例\枚举类型\枚举类型\obj\Debug\枚举类型.pdb

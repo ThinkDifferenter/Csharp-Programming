@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\string input\string input\bin\Debug\string input.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\string input\string input\bin\Debug\string input.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\string input\string input\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\string input\string input\obj\Debug\string input.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\string input\string input\obj\Debug\string input.pdb

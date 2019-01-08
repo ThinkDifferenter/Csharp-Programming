@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\异常处理\异常处理\bin\Debug\异常处理.exe
+D:\C# 程序设计\教材实例\异常处理\异常处理\bin\Debug\异常处理.pdb
+D:\C# 程序设计\教材实例\异常处理\异常处理\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\异常处理\异常处理\obj\Debug\异常处理.exe
+D:\C# 程序设计\教材实例\异常处理\异常处理\obj\Debug\异常处理.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\实验源代码\String_Type\String_Type\bin\Debug\String_Type.exe
+D:\C# 程序设计\实验源代码\String_Type\String_Type\bin\Debug\String_Type.pdb
+D:\C# 程序设计\实验源代码\String_Type\String_Type\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验源代码\String_Type\String_Type\obj\Debug\String_Type.exe
+D:\C# 程序设计\实验源代码\String_Type\String_Type\obj\Debug\String_Type.pdb

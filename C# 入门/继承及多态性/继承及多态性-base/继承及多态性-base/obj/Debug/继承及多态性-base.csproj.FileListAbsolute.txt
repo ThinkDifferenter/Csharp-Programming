@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-base\继承及多态性-base\bin\Debug\继承及多态性-base.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-base\继承及多态性-base\bin\Debug\继承及多态性-base.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-base\继承及多态性-base\bin\Debug\继承及多态性-base.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-base\继承及多态性-base\obj\Debug\继承及多态性-base.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-base\继承及多态性-base\obj\Debug\继承及多态性-base.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\继承及多态性-base\继承及多态性-base\obj\Debug\继承及多态性-base.pdb

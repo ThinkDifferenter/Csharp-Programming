@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Enum\Enum\bin\Debug\Enum.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Enum\Enum\bin\Debug\Enum.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Enum\Enum\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Enum\Enum\obj\Debug\Enum.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Enum\Enum\obj\Debug\Enum.pdb

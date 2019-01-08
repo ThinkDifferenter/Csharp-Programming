@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Value 3\Value 3\bin\Debug\Value 3.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Value 3\Value 3\bin\Debug\Value 3.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Value 3\Value 3\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Value 3\Value 3\obj\Debug\Value 3.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Value 3\Value 3\obj\Debug\Value 3.pdb

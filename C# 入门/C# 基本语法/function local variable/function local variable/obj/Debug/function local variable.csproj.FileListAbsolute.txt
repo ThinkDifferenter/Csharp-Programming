@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\function local variable\function local variable\bin\Debug\function local variable.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function local variable\function local variable\bin\Debug\function local variable.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\function local variable\function local variable\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\function local variable\function local variable\obj\Debug\function local variable.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\function local variable\function local variable\obj\Debug\function local variable.pdb

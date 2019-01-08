@@ -1,0 +1,8 @@
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\bin\Debug\My WindowsFormsApplication.exe
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\bin\Debug\My WindowsFormsApplication.pdb
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\obj\Debug\My_WindowsFormsApplication.Form1.resources
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\obj\Debug\My_WindowsFormsApplication.Properties.Resources.resources
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\obj\Debug\My WindowsFormsApplication.csproj.GenerateResource.Cache
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\obj\Debug\My WindowsFormsApplication.exe
+D:\C# 程序设计\教材实例\My WindowsFormsApplication\My WindowsFormsApplication\obj\Debug\My WindowsFormsApplication.pdb

@@ -1,0 +1,10 @@
+D:\C# 程序设计\实验题\面向对象\test\test\bin\Debug\test.exe
+D:\C# 程序设计\实验题\面向对象\test\test\bin\Debug\test.pdb
+D:\C# 程序设计\实验题\面向对象\test\test\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验题\面向对象\test\test\obj\Debug\test.exe
+D:\C# 程序设计\实验题\面向对象\test\test\obj\Debug\test.pdb
+D:\C# 程序设计\实验源代码\test\test\obj\Debug\test.exe
+D:\C# 程序设计\实验源代码\test\test\obj\Debug\test.pdb
+D:\C# 程序设计\实验源代码\test\test\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验源代码\test\test\bin\Debug\test.exe
+D:\C# 程序设计\实验源代码\test\test\bin\Debug\test.pdb

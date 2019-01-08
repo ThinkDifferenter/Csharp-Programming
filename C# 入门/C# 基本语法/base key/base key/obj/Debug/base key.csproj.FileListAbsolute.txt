@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\base key\base key\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\base key\base key\bin\Debug\base key.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\base key\base key\bin\Debug\base key.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\base key\base key\obj\Debug\base key.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\base key\base key\obj\Debug\base key.pdb

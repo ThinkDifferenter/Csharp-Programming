@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\inherit 3\inherit 3\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\inherit 3\inherit 3\bin\Debug\inherit 3.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\inherit 3\inherit 3\bin\Debug\inherit 3.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\inherit 3\inherit 3\obj\Debug\inherit 3.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\inherit 3\inherit 3\obj\Debug\inherit 3.pdb

@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\if sentence\if sentence\bin\Debug\if sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\if sentence\if sentence\bin\Debug\if sentence.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\if sentence\if sentence\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\if sentence\if sentence\obj\Debug\if sentence.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\if sentence\if sentence\obj\Debug\if sentence.pdb

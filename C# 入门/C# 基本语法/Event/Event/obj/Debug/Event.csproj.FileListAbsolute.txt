@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\Event\Event\bin\Debug\Event.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Event\Event\bin\Debug\Event.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\Event\Event\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\Event\Event\obj\Debug\Event.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\Event\Event\obj\Debug\Event.pdb

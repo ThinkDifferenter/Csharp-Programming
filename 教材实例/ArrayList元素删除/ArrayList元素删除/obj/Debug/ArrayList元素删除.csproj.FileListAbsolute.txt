@@ -1,0 +1,5 @@
+D:\C# 程序设计\教材实例\ArrayList元素删除\ArrayList元素删除\bin\Debug\ArrayList元素删除.exe
+D:\C# 程序设计\教材实例\ArrayList元素删除\ArrayList元素删除\bin\Debug\ArrayList元素删除.pdb
+D:\C# 程序设计\教材实例\ArrayList元素删除\ArrayList元素删除\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\教材实例\ArrayList元素删除\ArrayList元素删除\obj\Debug\ArrayList元素删除.exe
+D:\C# 程序设计\教材实例\ArrayList元素删除\ArrayList元素删除\obj\Debug\ArrayList元素删除.pdb

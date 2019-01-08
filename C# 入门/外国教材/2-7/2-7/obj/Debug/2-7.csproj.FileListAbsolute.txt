@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\2-7\2-7\bin\Debug\2-7.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\2-7\2-7\bin\Debug\2-7.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\2-7\2-7\bin\Debug\2-7.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\2-7\2-7\obj\Debug\2-7.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\2-7\2-7\obj\Debug\2-7.pdb

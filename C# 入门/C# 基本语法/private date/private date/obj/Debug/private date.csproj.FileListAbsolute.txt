@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\private date\private date\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\private date\private date\bin\Debug\private date.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\private date\private date\bin\Debug\private date.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\private date\private date\obj\Debug\private date.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\private date\private date\obj\Debug\private date.pdb

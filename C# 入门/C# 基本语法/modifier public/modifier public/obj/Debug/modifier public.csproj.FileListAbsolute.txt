@@ -1,0 +1,5 @@
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier public\modifier public\bin\Debug\modifier public.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier public\modifier public\bin\Debug\modifier public.pdb
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier public\modifier public\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier public\modifier public\obj\Debug\modifier public.exe
+D:\C# 程序设计\C# 入门\C# 基本语法\modifier public\modifier public\obj\Debug\modifier public.pdb

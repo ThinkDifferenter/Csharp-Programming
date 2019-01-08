@@ -1,0 +1,7 @@
+D:\C# 程序设计\实验源代码\Circle Class\Circle Class\bin\Debug\Circle Class.exe
+D:\C# 程序设计\实验源代码\Circle Class\Circle Class\bin\Debug\Circle Class.pdb
+D:\C# 程序设计\实验源代码\Circle Class\Circle Class\obj\Debug\ResolveAssemblyReference.cache
+D:\C# 程序设计\实验源代码\Circle Class\Circle Class\obj\Debug\Circle Class.exe
+D:\C# 程序设计\实验源代码\Circle Class\Circle Class\obj\Debug\Circle Class.pdb
+D:\C# 程序设计\试验源代码\Circle Class\Circle Class\obj\Debug\Circle Class.exe
+D:\C# 程序设计\试验源代码\Circle Class\Circle Class\obj\Debug\Circle Class.pdb
